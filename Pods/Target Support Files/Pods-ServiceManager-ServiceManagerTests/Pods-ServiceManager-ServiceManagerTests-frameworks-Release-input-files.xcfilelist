@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ServiceManager-ServiceManagerTests/Pods-ServiceManager-ServiceManagerTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Locksmith/Locksmith.framework

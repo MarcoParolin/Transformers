@@ -1,0 +1,8 @@
+R.generated.swift
+*.xcuserstate
+Transformers.xcodeproj/xcuserdata/*
+Transformers.xcworkspace/xcuserdata/*
+ServiceManager/ServiceManager.xcodeproj/xcuserdata/*
+ServiceManager/ServiceManager.xcworkspace/xcuserdata/*
+Pods/Pods.xcodeproj/xcuserdata/*
+.DS_Store
